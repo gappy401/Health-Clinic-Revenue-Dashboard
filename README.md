@@ -32,5 +32,3 @@ python app.py
 ```
 
 Then open `http://localhost:8050`
-
-Built by **Nandita Ghildyal** · [LinkedIn](https://linkedin.com/in/nanditaghildyal) · [nanditaghildyal@gmail.com](mailto:nanditaghildyal@gmail.com)
