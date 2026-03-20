@@ -19,7 +19,10 @@ A revenue cycle and operations dashboard built to simulate what a behavioral hea
 - Automated flag for payers exceeding target wait time
 
 ## Stack
-- Python · Plotly Dash · Pandas · NumPy
+- Python
+- Plotly Dash
+- Pandas
+- NumPy
 
 ## Run locally
 
