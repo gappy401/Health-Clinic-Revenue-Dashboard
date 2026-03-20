@@ -20,7 +20,6 @@ A revenue cycle and operations dashboard built to simulate what a behavioral hea
 
 ## Stack
 - Python · Plotly Dash · Pandas · NumPy
-- Fully simulated data (no PHI)
 
 ## Run locally
 
