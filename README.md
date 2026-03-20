@@ -1,6 +1,6 @@
 # Behavioral Health Clinic Analytics Dashboard
 
-A revenue cycle and operations dashboard built to simulate what a behavioral health clinic would need to monitor daily — built as a portfolio project inspired by [Camber](https://www.withcamber.com).
+A revenue cycle and operations dashboard built to simulate what a behavioral health clinic would need to monitor daily — built as a portfolio project.
 
 ## What it tracks
 
@@ -30,9 +30,5 @@ python app.py
 ```
 
 Then open `http://localhost:8050`
-
-## Why I built this
-
-This mirrors the core metrics a behavioral health clinic needs to run its revenue cycle — billing performance, denial root causes, and auth bottlenecks by payer. These are the exact pain points Camber is solving.
 
 Built by **Nandita Ghildyal** · [LinkedIn](https://linkedin.com/in/nanditaghildyal) · [nanditaghildyal@gmail.com](mailto:nanditaghildyal@gmail.com)
